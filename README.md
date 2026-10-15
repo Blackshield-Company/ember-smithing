@@ -1,3 +1,5 @@
+![ember-smithing](.github/preview.png)
+
 # Ember Smithing
 
 A Skyrim Special Edition mod that adds more to do at the forge. Put vanilla weapons back into the fire for three tiers of heat-tempering, and engrave vanilla armor with protective runes. All new records, crafted at the vanilla forges and improved at the vanilla grindstones and workbenches.
