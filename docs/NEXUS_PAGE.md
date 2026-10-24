@@ -79,7 +79,7 @@ No scripts, so you can remove it any time. Items made with it disappear.
 Daggers, bows and Daedric weapons, engravings for helmets, gauntlets and boots, and optional patches for popular smithing overhauls.
 
 [size=4][b]Source[/b][/size]
-Open source (MIT): [url=https://github.com/synthalorian/ember-smithing]github.com/synthalorian/ember-smithing[/url]
+Open source (MIT): [url=https://github.com/Blackshield-Company/ember-smithing]github.com/Blackshield-Company/ember-smithing[/url]
 
 [size=4][b]Credits[/b][/size]
 [list]

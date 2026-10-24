@@ -3,7 +3,7 @@
   <Name>Ember Smithing</Name>
   <Author>synthalorian</Author>
   <Version>@VERSION@</Version>
-  <Website>https://github.com/synthalorian/ember-smithing</Website>
+  <Website>https://github.com/Blackshield-Company/ember-smithing</Website>
   <Description>Heat-tempering tiers for vanilla weapons and engraved vanilla armor, crafted at the forge and improved at grindstones and workbenches. New records only. Early beta.</Description>
   <Groups>
     <element>Weapons and Armour</element>

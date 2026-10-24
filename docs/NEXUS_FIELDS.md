@@ -35,4 +35,4 @@ Permissions (suggestion; code is MIT on GitHub):
 Tags (pick the closest matches in the tag picker):
 Crafting, Smithing, Weapons, Armour, Lore-Friendly, ESL, No SKSE, No Scripts
 
-Source: https://github.com/synthalorian/ember-smithing
+Source: https://github.com/Blackshield-Company/ember-smithing
