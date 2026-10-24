@@ -9,7 +9,7 @@ A Skyrim Special Edition mod that adds more to do at the forge. Put vanilla weap
 - Game: Skyrim Special Edition / Anniversary Edition 1.6.x (also fine on 1.5.97). Works on Windows and on Linux through Proton.
 - Requirements: none beyond the base game. No SKSE, no SkyUI, no DLC, no Creation Club content.
 - Plugin: `EmberSmithing.esp`, ESL-flagged (537 records, FormIDs 0x800–0xA18, well inside the ESL range), Skyrim.esm is the only master. No vanilla records edited, no scripts.
-- Compatible with [Blackshield Company](https://github.com/synthalorian/blackshield-company), [Daedric Ledger: Bounties of Oblivion](https://github.com/synthalorian/bounties-of-oblivion), [Contract Hunter](https://github.com/synthalorian/contract-hunter) and [Steel Oath](https://github.com/synthalorian/steel-oath): separate prefix (`EMB_`), no shared records.
+- Compatible with [Blackshield Company](https://github.com/Blackshield-Company/blackshield-company), [Daedric Ledger: Bounties of Oblivion](https://github.com/Blackshield-Company/bounties-of-oblivion), [Contract Hunter](https://github.com/Blackshield-Company/contract-hunter) and [Steel Oath](https://github.com/Blackshield-Company/steel-oath): separate prefix (`EMB_`), no shared records.
 
 ## Heat-tempering (forge)
 
@@ -39,7 +39,7 @@ Recipes only show up at the forge while you carry the item they start from, so t
 
 ## Install
 
-Grab `EmberSmithing-<version>.zip` from [Releases](https://github.com/synthalorian/ember-smithing/releases) (FOMOD installer).
+Grab `EmberSmithing-<version>.zip` from [Releases](https://github.com/Blackshield-Company/ember-smithing/releases) (FOMOD installer).
 
 - **Mod Organizer 2**: *Install a new mod from an archive*, pick the zip, enable `EmberSmithing.esp`.
 - **Vortex**: drag the zip into the Mods page, install and enable it.
